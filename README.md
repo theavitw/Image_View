@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## dependencies 
        
-      react  :   ^13.4.0 
+      
       bootstrap  :   ^5.3.2  
       react  :   ^18.2.0  
       react-dom  :   ^18.2.0  
